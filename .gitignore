@@ -1,2 +1,6 @@
-#IDEA config
+# IDEA config
 .idea
+# node modules
+node_modules
+# Dist folder
+dist

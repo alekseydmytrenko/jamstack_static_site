@@ -1,0 +1,23 @@
+{
+  "name": "jamstack_static_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekseydmytrenko/jamstack_static_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekseydmytrenko/jamstack_static_site/issues"
+  },
+  "homepage": "https://github.com/alekseydmytrenko/jamstack_static_site#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
