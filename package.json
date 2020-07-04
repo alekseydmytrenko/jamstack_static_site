@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/alekseydmytrenko/jamstack_static_site#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
   }
 }

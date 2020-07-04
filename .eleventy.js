@@ -1,10 +1,11 @@
-module.exports = function(config) {
+module.exports = function (config) {
 
   config.addPassthroughCopy("src/js");
-  return  {
+  return {
     dir: {
       input: "src",
-      output: "dist"
+      output: "dist",
+      data: "_data",
     }
   };
 
